@@ -121,7 +121,7 @@ RTS 시점의 가디언 1명과 TPS 시점의 시커 4명이 맞붙는
 <tr>
 <td width="260">
 
-<img width="460" height="215" alt="111112" src="https://github.com/user-attachments/assets/06a8d7c3-2e62-4eea-bb35-39b01c45aed1" />
+<img width="1756" height="1039" alt="스크린샷 2026-07-15 024137" src="https://github.com/user-attachments/assets/c60e3b12-d14b-4ef2-9f62-c6ea9f9677c2" />
 
 </td>
 <td>
