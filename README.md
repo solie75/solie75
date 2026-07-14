@@ -59,7 +59,7 @@ Motion Matching으로 자연스러운 로코모션을 구현하고, Motion Warpi
 </details>
 
 <details open>
-<summary><h2>🛡️ Guardian And Seeker</h2></summary>
+<summary><h2>Guardian And Seeker</h2></summary>
 
 <table>
 <tr>
@@ -114,6 +114,183 @@ RTS 시점의 가디언 1명과 TPS 시점의 시커 4명이 맞붙는
 [![Trailer](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XxEy7O_hXBI&feature=youtu.be)
 </details>
 
+<details open>
+<summary><h2>Sky Wars!</h2></summary>
+
+<table>
+<tr>
+<td width="260">
+
+<img width="460" height="215" alt="111112" src="https://github.com/user-attachments/assets/06a8d7c3-2e62-4eea-bb35-39b01c45aed1" />
+
+</td>
+<td>
+
+### Sky Wars!
+
+탑 다운 뷰 시점의 네 캐릭터가 전투 하고 마지막 까지 살아남는 1인이 승자가 되는 게임
+7명 팀 프로젝트에서 **캐릭터 기본 로직과 애니메이션, 전투 및 스킬 설계와 구현**을 담당하였습니다.
+
+![UE5](https://img.shields.io/badge/UE5-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Team Project](https://img.shields.io/badge/Team-7인-6c5ce7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### My Role — Player Character & Animation & Combat
+
+**Player**
+- 플레이어 기본 조작 구현
+
+**Character Animation**
+- 캐릭터별 ABP 로 애니메이션 구현
+- AnimMontage 로 스킬 애니메이션 구현
+
+**Combat System**
+- 캐릭터의 스킬, 쿨타임, 데미지 구현
+
+#### Tech Stack
+`UE5` `AnimMontage` `AnimNotify` `Animation Blueprint`
+
+#### Team
+7인 팀 프로젝트 (기획/프로그래밍/아트)
+
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/NBcampUnrealTrack/1st-Team4-CH4-Project))
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=WcfjTOyUUuU))
+</details>
+
+<details open>
+<summary><h2>Ymir Heist</h2></summary>
+
+<table>
+<tr>
+<td width="260">
+
+<img width="2688" height="1282" alt="418919736-4c74ca39-8d39-4fa9-bc69-e0b0d534495e" src="https://github.com/user-attachments/assets/5ef5213e-f94c-4d97-aa87-ee51f734514d" />
+
+</td>
+<td>
+
+### Ymir Heist
+
+정해진 장소에서 플레이어는 쿼터뷰로 몰려드는 AI 경비 몬스터를 쓰러뜨리고 아이테을 모아 무기를 제작합니다.
+최종 보스를 쓰러뜨리고 탈출하면 승리입니다. 5명 팀 프로젝트에서 **Player 캐릭터, 애니메이션**를 담당했습니다.
+
+![UE5](https://img.shields.io/badge/UE5.4-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Team Project](https://img.shields.io/badge/Team-9인-6c5ce7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### My Role — Player Character & Animation
+
+**Locomotion & Full-Body Animation**
+- Motion Matching 을 활용하여 방향 전환·정지·회전 로코모션 구현
+
+**Aiming**
+- Aim Offset 기반 상체 조준 및 Aim Mode 구현
+
+#### Tech Stack
+`UE5.4` `Motion Matching` `Aim Offset` `Animation Blueprint`
+
+#### Team
+5인 팀 프로젝트 (기획/프로그래밍)
+
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/NBcampUnrealTrack/1st-Team7-CH3-Project))
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=SnrPjFUvvFs))
+</details>
+
+<details open>
+<summary><h2>ROOKIE HERO</h2></summary>
+
+<table>
+<tr>
+<td width="260">
+
+<img width="1598" height="801" alt="1111" src="https://github.com/user-attachments/assets/c7f584f9-1a01-4b2b-bdf4-34b9d378f4c3" />
+
+</td>
+<td>
+
+### ROOKIE HERO
+
+로그 라이크 형식의 텍스트 RPG 로 용사가 되어 왕국을 구하세요.
+5인 팀 프로젝트에서 **구조 설계, 스테이지 제작, 스테이지 변환, 캐릭터** 를 구현하였습니다.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Team Project](https://img.shields.io/badge/Team-5인-6c5ce7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### My Role — Player Character, System Architect, Stage
+
+- 전체적인 게임의 구조를 설계하고 구축
+- 각 스테이지와 스테이지 간의 이동을 구현
+- 캐릭터와 상태 변경 구현
+- 전반 적인 코드 QA 및 리팩토링
+
+#### Tech Stack
+c++
+
+#### Team
+5인 팀 프로젝트 (기획/프로그래밍/아트)
+
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/solie75/Text_RPG))
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=-6THOweYTr0))
+</details>
+
+<details open>
+<summary><h2>Moonlighter 모작</h2></summary>
+
+<table>
+<tr>
+<td width="260">
+
+<img width="2176" height="1272" alt="스크린샷 2026-07-15 021612" src="https://github.com/user-attachments/assets/caf710e2-bc77-40d8-ba90-ee1901f68b00" />
+
+</td>
+<td>
+
+### Moonlighter 모작
+
+DirectX11 Raw API 기반으로 2D 게임을
+처음부터 직접 구현한 개인 프로젝트입니다. 엔진 없이 게임 루프,
+충돌 연산, 오브젝트 관리 시스템을 밑바닥부터 설계했습니다.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Single Project](https://img.shields.io/badge/1인-6c5ce7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### Core Systems
+- **Rendering & Animation**: 스프라이트 시트 기반 캐릭터 애니메이션 시스템
+- **Physics**: 충돌체 설계 및 충돌 연산 직접 구현
+- **Combat**: Projectile(투사체) 궤적·충돌 연산
+- **Memory & Performance**: Object Pool 패턴으로 투사체/이펙트 등 빈번한 생성·소멸 객체 최적화
+- **Character**: 상태(State) 기반 캐릭터 상태 관리
+
+#### Tech Stack
+`DirectX11` `C++` `Win32 API`
+
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/solie75/Moonlighter_DirectX2D))
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=Uq_KzGkzphc&list=PLi_oA-14CBEEbbbGTfCVXiZ7I-zTR1REE))
+</details>
 
 
 <!--
