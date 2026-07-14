@@ -7,6 +7,8 @@
 ![JetBrains Rider](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Win32 API](https://img.shields.io/badge/win32api-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![DirectX12](https://img.shields.io/badge/directx12-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 <!--
 **solie75/solie75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
