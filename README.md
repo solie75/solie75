@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JetBrains Rider](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <!--
 **solie75/solie75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
