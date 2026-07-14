@@ -13,7 +13,7 @@
 # 🎮 Projects
 
 <details open>
-<summary></summary>
+<summary>진행 중</summary>
 
 <table>
 <tr>
