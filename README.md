@@ -258,7 +258,7 @@ c++
 <tr>
 <td width="260">
 
-<img width="2176" height="1272" alt="스크린샷 2026-07-15 021612" src="https://github.com/user-attachments/assets/caf710e2-bc77-40d8-ba90-ee1901f68b00" />
+<img width="460" height="215" alt="111112" src="https://github.com/user-attachments/assets/84c9fee4-8c33-4e7d-b780-39dfaee7fd99" />
 
 </td>
 <td>
