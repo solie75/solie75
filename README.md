@@ -87,20 +87,24 @@ RTS 시점의 가디언 1명과 TPS 시점의 시커 4명이 맞붙는
 
 ---
 
-#### About
-가디언은 RTS 시점에서 몬스터·함정을 배치해 던전을 수호하고,
-4명의 시커는 TPS 시점으로 침투하여 크리스탈을 탈취합니다.
-보스룸 도달 시 가디언이 보스 몬스터에 빙의하여 TPS 시점의
-PvP 전투로 전환되는 것이 핵심 시스템입니다.
-
 #### My Role — Player Character & Animation & Combat
-- 시커(Seeker) 플레이어 캐릭터의 이동·전투 애니메이션 시스템 설계
-- 에임 슈팅, 회피, 돌진 스킬 등 TPS 액션 로직 구현
-- Blueprint 기반 thread-safe 애니메이션 처리 패턴 적용
-- 경직·속박·슬로우·넉백 등 상태 이상과 연동되는 애니메이션 블렌딩 처리
+
+**Locomotion & Full-Body Animation**
+- Motion Matching + Chooser 조합으로 자연스러운 방향 전환·정지·회전 로코모션 구현
+- IK Retarget을 통한 스켈레톤 간 애니메이션 재사용 및 파츠별 Mesh 선택 시스템 구축
+- Animation Sequence 직접 제작 및 Animation Blueprint Template 설계로 캐릭터 간 애니메이션 로직 재사용성 확보
+
+**Aiming & Upper-Body Layering**
+- Aim Offset 기반 상체 조준 블렌딩 및 Aim Mode 구현
+- Lean(경사/커브 대응) 처리로 이동 중 시각적 자연스러움 보강
+
+**Combat System**
+- Dedicated 전투 로직 설계 및 콤보 시스템 구현
+- AnimMontage/AnimNotify를 활용한 스킬 애니메이션 트리거링
+- 스킬 일부 구현 및 피격 연산(히트 판정·리액션) 처리
 
 #### Tech Stack
-`UE5.4 (C++/Blueprint)` `TPS Combat` `Animation Blueprint` `Multiplayer`
+`UE5.4` `Motion Matching` `IK Retarget` `Aim Offset` `AnimMontage` `AnimNotify` `Animation Blueprint`
 
 #### Team
 9인 팀 프로젝트 (기획/프로그래밍/아트) — Confluence, Slack, Notion, Figma로 협업
