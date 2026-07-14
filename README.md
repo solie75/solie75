@@ -1,4 +1,4 @@
-<img width="2176" height="1272" alt="스크린샷 2026-07-15 021612" src="https://github.com/user-attachments/assets/2186b006-420f-4888-8108-3a186fbb969c" /># Technical Skills
+# Technical Skills
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -65,7 +65,7 @@ Motion Matching으로 자연스러운 로코모션을 구현하고, Motion Warpi
 <tr>
 <td width="260">
 
-<img src="<img width="2176" height="1272" alt="스크린샷 2026-07-15 021612" src="https://github.com/user-attachments/assets/caf710e2-bc77-40d8-ba90-ee1901f68b00" />" width="240"/>
+<img width="2176" height="1272" alt="스크린샷 2026-07-15 021612" src="https://github.com/user-attachments/assets/caf710e2-bc77-40d8-ba90-ee1901f68b00" />
 
 </td>
 <td>
