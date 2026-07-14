@@ -59,7 +59,7 @@ Motion Matching으로 자연스러운 로코모션을 구현하고, Motion Warpi
 </details>
 
 <details open>
-<summary></summary>
+<summary><h2>🛡️ Guardian And Seeker</h2></summary>
 
 <table>
 <tr>
@@ -106,8 +106,8 @@ PvP 전투로 전환되는 것이 핵심 시스템입니다.
 9인 팀 프로젝트 (기획/프로그래밍/아트) — Confluence, Slack, Notion, Figma로 협업
 
 [![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](https://github.com/NBcampUnrealTrack/1st-Team1-Final-Project)
-[![Play](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSCKdCAgDY)
-[![Trailer](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XxEy7O_hXBI&feature=youtu.be)
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSCKdCAgDY)
+[![Trailer](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XxEy7O_hXBI&feature=youtu.be)
 </details>
 
 
