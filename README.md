@@ -53,8 +53,7 @@ Motion Matching으로 자연스러운 로코모션을 구현하고, Motion Warpi
 - GASP Traversal 시스템 C++ 포팅 진행 중
 - Motion Warping Notify / BranchIn 관련 엔진 소스 레벨 디버깅 완료
 
-[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](저장소_링크)
-[![YouTube](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](영상_링크)
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](https://github.com/solie75/AS_Project)
 
 </details>
 
