@@ -159,8 +159,8 @@ RTS 시점의 가디언 1명과 TPS 시점의 시커 4명이 맞붙는
 #### Team
 7인 팀 프로젝트 (기획/프로그래밍/아트)
 
-[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/NBcampUnrealTrack/1st-Team4-CH4-Project))
-[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=WcfjTOyUUuU))
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]([(https://github.com/NBcampUnrealTrack/1st-Team4-CH4-Project)](https://github.com/NBcampUnrealTrack/1st-Team4-CH4-Project))
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([(https://www.youtube.com/watch?v=WcfjTOyUUuU)](https://www.youtube.com/watch?v=WcfjTOyUUuU))
 </details>
 
 <details open>
