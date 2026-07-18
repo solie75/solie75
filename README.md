@@ -204,8 +204,8 @@ RTS 시점의 가디언 1명과 TPS 시점의 시커 4명이 맞붙는
 #### Team
 5인 팀 프로젝트 (기획/프로그래밍)
 
-[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/NBcampUnrealTrack/1st-Team7-CH3-Project))
-[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=SnrPjFUvvFs))
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](https://github.com/NBcampUnrealTrack/1st-Team7-CH3-Project)
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SnrPjFUvvFs)
 </details>
 
 <details open>
@@ -247,8 +247,8 @@ c++
 #### Team
 5인 팀 프로젝트 (기획/프로그래밍/아트)
 
-[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/solie75/Text_RPG))
-[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=-6THOweYTr0))
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](https://github.com/solie75/Text_RPG)
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-6THOweYTr0)
 </details>
 
 <details open>
@@ -288,8 +288,8 @@ DirectX11 Raw API 기반으로 2D 게임을
 #### Tech Stack
 `DirectX11` `C++` `Win32 API`
 
-[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)]((https://github.com/solie75/Moonlighter_DirectX2D))
-[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/watch?v=Uq_KzGkzphc&list=PLi_oA-14CBEEbbbGTfCVXiZ7I-zTR1REE))
+[![GitHub](https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github)](https://github.com/solie75/Moonlighter_DirectX2D)
+[![Play](https://img.shields.io/badge/GamePlay-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Uq_KzGkzphc&list=PLi_oA-14CBEEbbbGTfCVXiZ7I-zTR1REE)
 </details>
 
 
